@@ -71,7 +71,6 @@ function poruszWazem(){
                    y: waz[0].y + yPredkosc};
     
     waz.unshift(glowa);
-    //jeśli jedzenie zjedzone
     if(waz[0].x == jedzenieX && waz[0].y == jedzenieY){
         wynik += 1;
         tekstWyniku.textContent = wynik;
