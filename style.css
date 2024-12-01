@@ -1,0 +1,19 @@
+#graPojemnik{
+    text-align: center;
+}
+#planszaGry{
+    border: 3px solid;
+}
+#tekstWyniku{
+    font-family: "Arial";
+    font-size: 100px;
+}
+#przyciskReset{
+    font-family: "Arial";
+    font-size: 22px;
+    width: 150px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
